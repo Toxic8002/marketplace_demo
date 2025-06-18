@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+/* Устанавливаем variable-шрифт */
+@theme {
+  --font-sans: InterVariable, sans-serif;
+}
